@@ -13,4 +13,4 @@ Learned and worked with:
 
 ![pic1](img/pic1.png)
 ![pic2](img/pic2.png)
-![pic3](img/pic3.png)
+![pic3](img/pic4.png)
