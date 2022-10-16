@@ -30,7 +30,7 @@ class StarSkyView(context: Context, attrs: AttributeSet): View(context, attrs) {
         }
     }
 
-    fun shuffleStars() {
+    private fun shuffleStars() {
         starsList.clear()
         starsAmount = Random.nextInt(STARS_MIN_AMOUNT, STARS_MAX_AMOUNT)
         while (starsAmount > 0) {

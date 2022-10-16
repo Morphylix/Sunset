@@ -41,11 +41,6 @@ class MainActivity : AppCompatActivity() {
         sceneView.setOnClickListener {
             startAnimation()
         }
-
-//        while (starsAmount > 0) {
-//            starsList.add(Star.placeRandomStar(skyView))
-//            starsAmount--
-//        }
     }
 
     private fun startAnimation() {
